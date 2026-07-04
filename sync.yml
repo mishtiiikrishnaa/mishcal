@@ -1,0 +1,37 @@
+name: sync-digiicampus-timetable
+
+on:
+  schedule:
+    # runs every saturday at 03:00 UTC = 08:30 IST.
+    # pick this time to land AFTER you've refreshed the token that morning.
+    - cron: "0 3 * * 6"
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+
+      - name: set up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: fetch lessons and build ics
+        env:
+          DIGIICAMPUS_AUTH_TOKEN: ${{ secrets.DIGIICAMPUS_AUTH_TOKEN }}
+          DIGIICAMPUS_COOKIE: ${{ secrets.DIGIICAMPUS_COOKIE }}
+        run: python fetch_and_build.py
+
+      - name: commit updated ics
+        run: |
+          git config user.name "digiicampus-sync-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/timetable.ics
+          git diff --staged --quiet || git commit -m "sync: refresh timetable.ics"
+          git push
