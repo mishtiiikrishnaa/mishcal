@@ -8,288 +8,8 @@ X-WR-TIMEZONE:Asia/Kolkata
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:digiicampus-lesson-142882@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260725T081500
-DTEND;TZID=Asia/Kolkata:20260725T091500
-SUMMARY:Programming in Java (25CS302)
-DESCRIPTION:Faculty: Rajitha  T\nBatch: PIJ_CSE_26_SEM III_I\nDept: Depar
- tment of Computer Science and Engineering
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-142884@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260725T091500
-DTEND;TZID=Asia/Kolkata:20260725T101500
-SUMMARY:Programming in Java (25CS302)
-DESCRIPTION:Faculty: Rajitha  T\nBatch: PIJ_CSE_26_SEM III_I\nDept: Depar
- tment of Computer Science and Engineering
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-142886@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260725T104500
-DTEND;TZID=Asia/Kolkata:20260725T114500
-SUMMARY:Programming in Java (25CS302)
-DESCRIPTION:Faculty: Rajitha  T\nBatch: PIJ_CSE_26_SEM III_I\nDept: Depar
- tment of Computer Science and Engineering
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-142888@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260725T114500
-DTEND;TZID=Asia/Kolkata:20260725T124500
-SUMMARY:Algorithm Design Techniques (25CS301)
-DESCRIPTION:Faculty: Ancy  R\nBatch: ADT_CSE_26_SEM III_I\nDept: Departme
- nt of Computer Science and Engineering
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-142892@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260725T134500
-DTEND;TZID=Asia/Kolkata:20260725T144500
-SUMMARY:Algorithm Design Techniques (25CS301)
-DESCRIPTION:Faculty: Ancy  R\nBatch: ADT_CSE_26_SEM III_I\nDept: Departme
- nt of Computer Science and Engineering
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-146137@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260801T081500
-DTEND;TZID=Asia/Kolkata:20260801T091500
-SUMMARY:Relational Database Management (25IT301)
-DESCRIPTION:Faculty: Granty Regina  J\nBatch: RDBMS_CSE_26_SEM III_I\nDep
- t: Department of Information Technology
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-146143@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260801T091500
-DTEND;TZID=Asia/Kolkata:20260801T101500
-SUMMARY:Relational Database Management (25IT301)
-DESCRIPTION:Faculty: Granty Regina  J\nBatch: RDBMS_CSE_26_SEM III_I\nDep
- t: Department of Information Technology
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-146152@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260801T104500
-DTEND;TZID=Asia/Kolkata:20260801T114500
-SUMMARY:Relational Database Management (25IT301)
-DESCRIPTION:Faculty: Granty Regina  J\nBatch: RDBMS_CSE_26_SEM III_I\nDep
- t: Department of Information Technology
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-146159@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260801T114500
-DTEND;TZID=Asia/Kolkata:20260801T124500
-SUMMARY:Artificial Intelligence and Applications (25ADC01)
-DESCRIPTION:Faculty: Reema  Nisha\nBatch: AI&A_CSE_26_SEM III_I\nDept: De
- partment of Artificial Intelligence & Data Science
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-146165@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260801T134500
-DTEND;TZID=Asia/Kolkata:20260801T144500
-SUMMARY:Artificial Intelligence and Applications (25ADC01)
-DESCRIPTION:Faculty: Reema  Nisha\nBatch: AI&A_CSE_26_SEM III_I\nDept: De
- partment of Artificial Intelligence & Data Science
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-148007@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260727T081500
-DTEND;TZID=Asia/Kolkata:20260727T091500
-SUMMARY:Relational Database Management (25IT301)
-DESCRIPTION:Faculty: Granty Regina  J\nBatch: RDBMS_CSE_26_SEM III_I\nDep
- t: Department of Information Technology
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-148010@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260727T091500
-DTEND;TZID=Asia/Kolkata:20260727T101500
-SUMMARY:Relational Database Management (25IT301)
-DESCRIPTION:Faculty: Granty Regina  J\nBatch: RDBMS_CSE_26_SEM III_I\nDep
- t: Department of Information Technology
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-148013@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260727T104500
-DTEND;TZID=Asia/Kolkata:20260727T114500
-SUMMARY:Relational Database Management (25IT301)
-DESCRIPTION:Faculty: Granty Regina  J\nBatch: RDBMS_CSE_26_SEM III_I\nDep
- t: Department of Information Technology
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-148016@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260727T114500
-DTEND;TZID=Asia/Kolkata:20260727T124500
-SUMMARY:Artificial Intelligence and Applications (25ADC01)
-DESCRIPTION:Faculty: Reema  Nisha\nBatch: AI&A_CSE_26_SEM III_I\nDept: De
- partment of Artificial Intelligence & Data Science
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-148696@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260728T081500
-DTEND;TZID=Asia/Kolkata:20260728T091500
-SUMMARY:Operating Systems (25CYC01)
-DESCRIPTION:Faculty: Sujitha M S  C\nBatch: OS_CSE_26_SEM III_I\nDept: De
- partment of Computer Science and Engineering  (Cyber Security)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-148699@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260728T091500
-DTEND;TZID=Asia/Kolkata:20260728T101500
-SUMMARY:Operating Systems (25CYC01)
-DESCRIPTION:Faculty: Sujitha M S  C\nBatch: OS_CSE_26_SEM III_I\nDept: De
- partment of Computer Science and Engineering  (Cyber Security)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-148702@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260728T104500
-DTEND;TZID=Asia/Kolkata:20260728T114500
-SUMMARY:Multilingual Practices (25SLC01)
-DESCRIPTION:Faculty: Sujitha M S  C\nBatch: MLP_CSE_2025-2028_I\nDept: De
- partment of Electronics and Communication Engineering
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-148705@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260728T114500
-DTEND;TZID=Asia/Kolkata:20260728T124500
-SUMMARY:Programming in Java (25CS302)
-DESCRIPTION:Faculty: Rajitha  T\nBatch: PIJ_CSE_26_SEM III_I\nDept: Depar
- tment of Computer Science and Engineering
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-152188@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260729T081500
-DTEND;TZID=Asia/Kolkata:20260729T091500
-SUMMARY:Artificial Intelligence and Applications (25ADC01)
-DESCRIPTION:Faculty: Reema  Nisha\nBatch: AI&A_CSE_26_SEM III_I\nDept: De
- partment of Artificial Intelligence & Data Science
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-152197@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260729T091500
-DTEND;TZID=Asia/Kolkata:20260729T101500
-SUMMARY:Artificial Intelligence and Applications (25ADC01)
-DESCRIPTION:Faculty: Reema  Nisha\nBatch: AI&A_CSE_26_SEM III_I\nDept: De
- partment of Artificial Intelligence & Data Science
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-152203@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260729T104500
-DTEND;TZID=Asia/Kolkata:20260729T114500
-SUMMARY:Operating Systems (25CYC01)
-DESCRIPTION:Faculty: Sujitha M S  C\nBatch: OS_CSE_26_SEM III_I\nDept: De
- partment of Computer Science and Engineering  (Cyber Security)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-152206@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260729T114500
-DTEND;TZID=Asia/Kolkata:20260729T124500
-SUMMARY:Operating Systems (25CYC01)
-DESCRIPTION:Faculty: Sujitha M S  C\nBatch: OS_CSE_26_SEM III_I\nDept: De
- partment of Computer Science and Engineering  (Cyber Security)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-152262@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260729T134500
-DTEND;TZID=Asia/Kolkata:20260729T144500
-SUMMARY:Universal Human Values (25GE301)
-DESCRIPTION:Batch: UHV_CSE_26_SEM III_I\nDept: Department of Mechanical E
- ngineering
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-152663@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260730T081500
-DTEND;TZID=Asia/Kolkata:20260730T091500
-SUMMARY:Algorithm Design Techniques (25CS301)
-DESCRIPTION:Faculty: Ancy  R\nBatch: ADT_CSE_26_SEM III_I\nDept: Departme
- nt of Computer Science and Engineering
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-152683@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260730T104500
-DTEND;TZID=Asia/Kolkata:20260730T114500
-SUMMARY:Algorithm Design Techniques (25CS301)
-DESCRIPTION:Faculty: Ancy  R\nBatch: ADT_CSE_26_SEM III_I\nDept: Departme
- nt of Computer Science and Engineering
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-152704@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260730T091500
-DTEND;TZID=Asia/Kolkata:20260730T101500
-SUMMARY:Algorithm Design Techniques (25CS301)
-DESCRIPTION:Faculty: Ancy  R\nBatch: ADT_CSE_26_SEM III_I\nDept: Departme
- nt of Computer Science and Engineering
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-152794@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260730T114500
-DTEND;TZID=Asia/Kolkata:20260730T124500
-SUMMARY:Relational Database Management (25IT301)
-DESCRIPTION:Faculty: Granty Regina  J\nBatch: RDBMS_CSE_26_SEM III_I\nDep
- t: Department of Information Technology
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:digiicampus-lesson-152798@mish-timetable
-DTSTAMP:20260728T054408Z
-DTSTART;TZID=Asia/Kolkata:20260730T134500
-DTEND;TZID=Asia/Kolkata:20260730T144500
-SUMMARY:Relational Database Management (25IT301)
-DESCRIPTION:Faculty: Granty Regina  J\nBatch: RDBMS_CSE_26_SEM III_I\nDep
- t: Department of Information Technology
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:digiicampus-lesson-153457@mish-timetable
-DTSTAMP:20260728T054408Z
+DTSTAMP:20260803T184756Z
 DTSTART;TZID=Asia/Kolkata:20260731T081500
 DTEND;TZID=Asia/Kolkata:20260731T091500
 SUMMARY:Programming in Java (25CS302)
@@ -299,7 +19,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:digiicampus-lesson-153463@mish-timetable
-DTSTAMP:20260728T054408Z
+DTSTAMP:20260803T184756Z
 DTSTART;TZID=Asia/Kolkata:20260731T091500
 DTEND;TZID=Asia/Kolkata:20260731T101500
 SUMMARY:Programming in Java (25CS302)
@@ -309,7 +29,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:digiicampus-lesson-153469@mish-timetable
-DTSTAMP:20260728T054408Z
+DTSTAMP:20260803T184756Z
 DTSTART;TZID=Asia/Kolkata:20260731T104500
 DTEND;TZID=Asia/Kolkata:20260731T114500
 SUMMARY:Programming in Java (25CS302)
@@ -319,7 +39,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:digiicampus-lesson-153475@mish-timetable
-DTSTAMP:20260728T054408Z
+DTSTAMP:20260803T184756Z
 DTSTART;TZID=Asia/Kolkata:20260731T114500
 DTEND;TZID=Asia/Kolkata:20260731T124500
 SUMMARY:Algorithm Design Techniques (25CS301)
@@ -329,12 +49,262 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:digiicampus-lesson-153487@mish-timetable
-DTSTAMP:20260728T054408Z
+DTSTAMP:20260803T184756Z
 DTSTART;TZID=Asia/Kolkata:20260731T134500
 DTEND;TZID=Asia/Kolkata:20260731T144500
 SUMMARY:Algorithm Design Techniques (25CS301)
 DESCRIPTION:Faculty: Ancy  R\nBatch: ADT_CSE_26_SEM III_I\nDept: Departme
  nt of Computer Science and Engineering
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157272@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260805T081500
+DTEND;TZID=Asia/Kolkata:20260805T091500
+SUMMARY:Algorithm Design Techniques (25CS301)
+DESCRIPTION:Faculty: Anitha  P\nBatch: ADT_CSE_26_SEM III_I\nDept: Depart
+ ment of Computer Science and Engineering
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157273@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260805T091500
+DTEND;TZID=Asia/Kolkata:20260805T101500
+SUMMARY:Algorithm Design Techniques (25CS301)
+DESCRIPTION:Faculty: Anitha  P\nBatch: ADT_CSE_26_SEM III_I\nDept: Depart
+ ment of Computer Science and Engineering
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157276@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260805T104500
+DTEND;TZID=Asia/Kolkata:20260805T114500
+SUMMARY:Algorithm Design Techniques (25CS301)
+DESCRIPTION:Faculty: Anitha  P\nBatch: ADT_CSE_26_SEM III_I\nDept: Depart
+ ment of Computer Science and Engineering
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157279@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260805T114500
+DTEND;TZID=Asia/Kolkata:20260805T124500
+SUMMARY:Relational Database Management (25IT301)
+DESCRIPTION:Faculty: Granty Regina  J\nBatch: RDBMS_CSE_26_SEM III_I\nDep
+ t: Department of Information Technology
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157282@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260805T134500
+DTEND;TZID=Asia/Kolkata:20260805T144500
+SUMMARY:Relational Database Management (25IT301)
+DESCRIPTION:Faculty: Granty Regina  J\nBatch: RDBMS_CSE_26_SEM III_I\nDep
+ t: Department of Information Technology
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157285@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260806T081500
+DTEND;TZID=Asia/Kolkata:20260806T091500
+SUMMARY:Programming in Java (25CS302)
+DESCRIPTION:Faculty: Nirmala  D\nBatch: PIJ_CSE_26_SEM III_I\nDept: Depar
+ tment of Computer Science and Engineering
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157288@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260806T091500
+DTEND;TZID=Asia/Kolkata:20260806T101500
+SUMMARY:Programming in Java (25CS302)
+DESCRIPTION:Faculty: Nirmala  D\nBatch: PIJ_CSE_26_SEM III_I\nDept: Depar
+ tment of Computer Science and Engineering
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157291@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260806T104500
+DTEND;TZID=Asia/Kolkata:20260806T114500
+SUMMARY:Programming in Java (25CS302)
+DESCRIPTION:Faculty: Nirmala  D\nBatch: PIJ_CSE_26_SEM III_I\nDept: Depar
+ tment of Computer Science and Engineering
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157294@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260806T114500
+DTEND;TZID=Asia/Kolkata:20260806T124500
+SUMMARY:Algorithm Design Techniques (25CS301)
+DESCRIPTION:Faculty: Anitha  P\nBatch: ADT_CSE_26_SEM III_I\nDept: Depart
+ ment of Computer Science and Engineering
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157296@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260806T134500
+DTEND;TZID=Asia/Kolkata:20260806T144500
+SUMMARY:Algorithm Design Techniques (25CS301)
+DESCRIPTION:Faculty: Anitha  P\nBatch: ADT_CSE_26_SEM III_I\nDept: Depart
+ ment of Computer Science and Engineering
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157298@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260807T081500
+DTEND;TZID=Asia/Kolkata:20260807T091500
+SUMMARY:Relational Database Management (25IT301)
+DESCRIPTION:Faculty: Granty Regina  J\nBatch: RDBMS_CSE_26_SEM III_I\nDep
+ t: Department of Information Technology
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157299@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260807T091500
+DTEND;TZID=Asia/Kolkata:20260807T101500
+SUMMARY:Relational Database Management (25IT301)
+DESCRIPTION:Faculty: Granty Regina  J\nBatch: RDBMS_CSE_26_SEM III_I\nDep
+ t: Department of Information Technology
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157301@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260807T104500
+DTEND;TZID=Asia/Kolkata:20260807T114500
+SUMMARY:Relational Database Management (25IT301)
+DESCRIPTION:Faculty: Granty Regina  J\nBatch: RDBMS_CSE_26_SEM III_I\nDep
+ t: Department of Information Technology
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157303@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260804T081500
+DTEND;TZID=Asia/Kolkata:20260804T091500
+SUMMARY:Artificial Intelligence and Applications (25ADC01)
+DESCRIPTION:Faculty: Reema  Nisha\nBatch: AI&A_CSE_26_SEM III_I\nDept: De
+ partment of Artificial Intelligence & Data Science
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157304@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260807T114500
+DTEND;TZID=Asia/Kolkata:20260807T124500
+SUMMARY:Artificial Intelligence and Applications (25ADC01)
+DESCRIPTION:Faculty: Reema  Nisha\nBatch: AI&A_CSE_26_SEM III_I\nDept: De
+ partment of Artificial Intelligence & Data Science
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157306@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260807T134500
+DTEND;TZID=Asia/Kolkata:20260807T144500
+SUMMARY:Artificial Intelligence and Applications (25ADC01)
+DESCRIPTION:Faculty: Reema  Nisha\nBatch: AI&A_CSE_26_SEM III_I\nDept: De
+ partment of Artificial Intelligence & Data Science
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157307@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260804T091500
+DTEND;TZID=Asia/Kolkata:20260804T101500
+SUMMARY:Artificial Intelligence and Applications (25ADC01)
+DESCRIPTION:Faculty: Reema  Nisha\nBatch: AI&A_CSE_26_SEM III_I\nDept: De
+ partment of Artificial Intelligence & Data Science
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157310@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260804T104500
+DTEND;TZID=Asia/Kolkata:20260804T114500
+SUMMARY:Operating Systems (25CYC01)
+DESCRIPTION:Faculty: Sujitha M S  C\nBatch: OS_CSE_26_SEM III_I\nDept: De
+ partment of Computer Science and Engineering  (Cyber Security)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157311@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260803T081500
+DTEND;TZID=Asia/Kolkata:20260803T091500
+SUMMARY:Operating Systems (25CYC01)
+DESCRIPTION:Faculty: Sujitha M S  C\nBatch: OS_CSE_26_SEM III_I\nDept: De
+ partment of Computer Science and Engineering  (Cyber Security)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157313@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260804T114500
+DTEND;TZID=Asia/Kolkata:20260804T124500
+SUMMARY:Operating Systems (25CYC01)
+DESCRIPTION:Faculty: Sujitha M S  C\nBatch: OS_CSE_26_SEM III_I\nDept: De
+ partment of Computer Science and Engineering  (Cyber Security)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157315@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260803T091500
+DTEND;TZID=Asia/Kolkata:20260803T101500
+SUMMARY:Operating Systems (25CYC01)
+DESCRIPTION:Faculty: Sujitha M S  C\nBatch: OS_CSE_26_SEM III_I\nDept: De
+ partment of Computer Science and Engineering  (Cyber Security)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157318@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260803T104500
+DTEND;TZID=Asia/Kolkata:20260803T114500
+SUMMARY:Multilingual Practices (25SLC01)
+DESCRIPTION:Faculty: Vishnupriya  S\nBatch: MLP_CSE_2025-2028_I\nDept: De
+ partment of Electronics and Communication Engineering
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157321@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260803T114500
+DTEND;TZID=Asia/Kolkata:20260803T124500
+SUMMARY:Programming in Java (25CS302)
+DESCRIPTION:Faculty: Nirmala  D\nBatch: PIJ_CSE_26_SEM III_I\nDept: Depar
+ tment of Computer Science and Engineering
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157323@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260803T134500
+DTEND;TZID=Asia/Kolkata:20260803T144500
+SUMMARY:Programming in Java (25CS302)
+DESCRIPTION:Faculty: Nirmala  D\nBatch: PIJ_CSE_26_SEM III_I\nDept: Depar
+ tment of Computer Science and Engineering
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:digiicampus-lesson-157460@mish-timetable
+DTSTAMP:20260803T184756Z
+DTSTART;TZID=Asia/Kolkata:20260804T134500
+DTEND;TZID=Asia/Kolkata:20260804T144500
+SUMMARY:Universal Human Values (25GE301)
+DESCRIPTION:Batch: UHV_CSE_26_SEM III_I\nDept: Department of Mechanical E
+ ngineering
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
